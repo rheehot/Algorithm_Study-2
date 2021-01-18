@@ -2,3 +2,6 @@
 # ignore all files in the build/ directory
 .ipynb_checkpoints/
 .git/
+.idea/
+
+.gitignore
